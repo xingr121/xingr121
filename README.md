@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Xing
 
 As an aspiring full-stack developer, I am driven by an insatiable curiosity for technology and a relentless pursuit of knowledge. Through a full-stack developer program, self-directed learning and hands-on projects, I've cultivated expertise in frontend and backend technologies, including JavaScript, Node.js, React, and MySQL. 
 
